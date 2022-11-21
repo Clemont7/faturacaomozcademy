@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/josematimbe/Transferências/jfreechart-1.5.3.jar",
+        "/home/josematimbe/Transferências/mysql-connector-java-5.1.47.jar",
+        "/home/josematimbe/Transferências/timingframework-1.0.jar",
+        "/home/josematimbe/Transferências/swingx-autocomplete-1.6.5.jar",
+        "/home/josematimbe/Transferências/swingx-common-1.6.5.jar",
+        "c:\\Users\\Jose Matimbe\\Desktop\\codeUme\\Request\\31_10_MozAcadmy\\JarFiles\\jfreechart-1.5.3.jar",
+        "c:\\Users\\Jose Matimbe\\Desktop\\codeUme\\Request\\31_10_MozAcadmy\\JarFiles\\mysql-connector-java-5.1.47.jar",
+        "c:\\Users\\Jose Matimbe\\Desktop\\codeUme\\Request\\31_10_MozAcadmy\\JarFiles\\swingx-autocomplete-1.6.5.jar",
+        "c:\\Users\\Jose Matimbe\\Desktop\\codeUme\\Request\\31_10_MozAcadmy\\JarFiles\\swingx-common-1.6.5.jar",
+        "c:\\Users\\Jose Matimbe\\Desktop\\codeUme\\Request\\31_10_MozAcadmy\\JarFiles\\timingframework-1.0.jar"
+    ]
+}
